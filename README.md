@@ -51,7 +51,7 @@ We have implemented versioning for our APIs to ensure backward compatibility and
 
 ## CRUD Operations
 The following CRUD operations are supported:
-  - Create
+  - Create 
   - Update
   - Delete
     
